@@ -13,6 +13,7 @@ To bridge the gap between research and applications, we are collaborating with v
 
 - [Renault Group](https://www.renaultgroup.com/)
 - [Michelin](https://www.michelin.fr/)
+- [Califrais](https://www.califrais.fr/en)
 
 ## Professional networks
 
