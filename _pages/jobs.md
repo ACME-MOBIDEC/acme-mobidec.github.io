@@ -5,7 +5,7 @@ title: "Jobs"
 
 ## Open positions
 
-None at the moment.
+- Internship (+ PhD): ["Mathematical programming approaches for optimizing horizontal collaboration in the freight transport sector"](../assets/pdf/jobs/internship_collaboration_mathprog.pdf)
 
 ## Already filled
 
