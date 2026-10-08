@@ -5,7 +5,7 @@ title: "Jobs"
 
 ## Open positions
 
-Nothing right now, stay tuned!
+- Internship: [*"Semantic Integration of Heterogeneous Data Sources"*](../assets/pdf/jobs/internship_data.pdf)
 
 ## Already filled
 
