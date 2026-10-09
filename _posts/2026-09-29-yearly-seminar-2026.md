@@ -16,19 +16,36 @@ This time will be dedicated to an exchange with ACME's industrial partners.
 Tentative agenda:
 
 * 14h00 - 14h15: State of ACME (Guillaume Dalle)
-* 14h15 - 16h00: Doctoral presentations
-* 16h00 - 16h30: Coffee break
-* 16h30 - 17h00: General feedback from our partners
-* 17h00 - 17h30: Per-project exchanges
-* 17h30 - 18h00: Closing words and next steps
+* 14h15 - 15h45: Doctoral presentations (Nicolas Bessin & Joachim Eimery), 25 min talk + 20 min questions
+* 15h45 - 16h00: Coffee break
+* 16h00 - 17h30: Doctoral presentations (Mohammed Younes & Gabriel Legrand), 25 min talk + 20 min questions
+* 17h30 - 18h00: Free exchange and next steps for the project
+
+The ample time allotted to questions is designed to gather feedback and solidify future research directions.
+
+**Thursday evening (19h)**
+
+Team dinner at [Le Trois Quatorze](https://maps.app.goo.gl/ztEPTNJqcytDQcYm6), restaurant of Hotel Ibis Marne-la-Vallée Champs.
 
 **Wednesday morning (9h-12h)**
 
-This time will be dedicated to scientific brainstorming between the members of the project, possibly featuring talks by colleagues working on related subjects.
+This time will be dedicated to scientific brainstorming between the members of the project, possibly featuring talks by colleagues or senior researchers working on related subjects.
+
+**Wednesday lunch (12h-14h)**
+
+Team lunch at the cafeteria of ENPC.
 
 **Wednesday afternoon (14h-17h)**
 
 This time will be dedicated to a (partially remote) meeting with Agence Nationale de la Recherche.
+Tentative agenda:
+
+* 14h00 - 14h15: State of ACME (Guillaume Dalle)
+* 14h15 - 15h30: Doctoral presentations (Nicolas Bessin, Joachim Eimery, Mohammed Younes, Gabriel Legrand), 15 min talk + 5 min questions
+* 15h30 - 16h00: Administrative and financial matters
+* 16H00 - 16h15: Free exchange and next steps for the project
+
+The presentations will be similar to those given to the industrial partners, but shorter.
 
 ## Presentations
 
@@ -46,4 +63,6 @@ Joachim Eimery: **Horizontal collaboration for fret transportation**
 
 *This presentation proposes a two-stage framework to support collaboration and negotiations among shippers for fret transportation. First, we adopt the perspective of a central planner and formulate a Scheduled Service Network Design Problem to determine a minimum-cost network satisfying all transportation requirements. Second, we investigate how the resulting cost can be allocated among coalition members. We use the Shapley value as a benchmark to account for each shipper’s marginal contributions to coalition costs. Since its exact computation requires solving an exponential number of network design problems, we examine approximation methods that reduce the computational burden.*
 
-Gabriel Legrand: **TBA**
+Gabriel Legrand: **The formation of prices on a competitive freight transportation market**
+
+*Abstract TBA*
