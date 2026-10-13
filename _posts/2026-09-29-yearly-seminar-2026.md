@@ -63,6 +63,6 @@ Joachim Eimery (PhD student): **Horizontal collaboration for fret transportation
 
 *This presentation proposes a two-stage framework to support collaboration and negotiations among shippers for fret transportation. First, we adopt the perspective of a central planner and formulate a Scheduled Service Network Design Problem to determine a minimum-cost network satisfying all transportation requirements. Second, we investigate how the resulting cost can be allocated among coalition members. We use the Shapley value as a benchmark to account for each shipper’s marginal contributions to coalition costs. Since its exact computation requires solving an exponential number of network design problems, we examine approximation methods that reduce the computational burden.*
 
-Gabriel Legrand (MS student): **The formation of prices on a competitive freight transportation market**
+Gabriel Legrand (MS student): **Behavior of agents on the logistics market and incentives to cooperate**
 
 *Abstract TBA*
