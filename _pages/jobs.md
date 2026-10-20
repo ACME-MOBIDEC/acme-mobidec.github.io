@@ -5,6 +5,7 @@ title: "Jobs"
 
 ## Open positions
 
+- Internship + PhD: [*"Network design and equilibrium learning for collaborative logistics"*](../assets/pdf/jobs/internship_network_design.pdf)
 - Internship: [*"Semantic Integration of Heterogeneous Data Sources"*](../assets/pdf/jobs/internship_data.pdf)
 
 ## Already filled
