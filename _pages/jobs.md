@@ -6,12 +6,12 @@ title: "Jobs"
 ## Open positions
 
 - Internship + PhD: [*"Network design and equilibrium learning for collaborative logistics"*](../assets/pdf/jobs/internship_network_design.pdf)
-- Internship: [*"Semantic Integration of Heterogeneous Data Sources"*](../assets/pdf/jobs/internship_data.pdf)
 
 ## Already filled
 
 See the [team page](./team.md) for more details!
 
+- Internship: [*"Semantic Integration of Heterogeneous Data Sources"*](../assets/pdf/jobs/internship_data.pdf) (Yahia Abu Saqer)
 - Postdoc: [*"Efficient & parallel graph algorithms for decision-focused learning in logistics"*](../assets/pdf/jobs/postdoc_graphs.pdf) (Amaury Jacques)
 - PhD: [*"Data Management for Multi-stakeholder and Inter-domain Knowledge Sharing"*](../assets/pdf/jobs/phd_data.pdf) (Mohammed Younes)
 - Internship + PhD: [*"Mathematical programming approaches for optimizing horizontal collaboration in the freight transport sector"*](../assets/pdf/jobs/internship_collaboration_mathprog.pdf) (Joachim Eimery)
